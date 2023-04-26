@@ -1,0 +1,15 @@
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\bin\Debug\net6.0\PTI - Algoritimos.exe
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\bin\Debug\net6.0\PTI - Algoritimos.deps.json
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\bin\Debug\net6.0\PTI - Algoritimos.runtimeconfig.json
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\bin\Debug\net6.0\PTI - Algoritimos.dll
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\bin\Debug\net6.0\PTI - Algoritimos.pdb
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\obj\Debug\net6.0\PTI - Algoritimos.csproj.AssemblyReference.cache
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\obj\Debug\net6.0\PTI - Algoritimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\obj\Debug\net6.0\PTI - Algoritimos.AssemblyInfoInputs.cache
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\obj\Debug\net6.0\PTI - Algoritimos.AssemblyInfo.cs
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\obj\Debug\net6.0\PTI - Algoritimos.csproj.CoreCompileInputs.cache
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\obj\Debug\net6.0\PTI - Algoritimos.dll
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\obj\Debug\net6.0\refint\PTI - Algoritimos.dll
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\obj\Debug\net6.0\PTI - Algoritimos.pdb
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\obj\Debug\net6.0\PTI - Algoritimos.genruntimeconfig.cache
+C:\Users\marlu\OneDrive\Documentos\PTI - Algoritimos\obj\Debug\net6.0\ref\PTI - Algoritimos.dll
